@@ -2,13 +2,7 @@
 
 This repository documents my journey learning Solidity and Foundry through the Cyfrin Updraft Advanced Foundry Course. Special thanks to [Patrick Collins](https://github.com/PatrickAlphaC) for creating an incredible learning resource, and to [Engrpips](https://github.com/Engrpips) for their invaluable help with test implementations.
 
-<p align="center">
-<img src="./images/dogNft/pug.png" width="225" alt="NFT Pug">
-<img src="./images/dynamicNft/happy.svg" width="225" alt="NFT Happy">
-<img src="./images/dogNft/shiba-inu.png" width="225" alt="NFT Shiba">
-<img src="./images/dynamicNft/sad.svg" width="225" alt="NFT Frown">
-<img src="./images/dogNft/st-bernard.png" width="225" alt="NFT St.Bernard">
-</p>
+
 
 ## 🚀 My Learning Journey
 
